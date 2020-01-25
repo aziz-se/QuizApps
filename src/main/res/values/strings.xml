@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">কুইজ বাংলা</string>
+    <string name="my_laptop_name">Macbook Pro</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="correct_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message"> Not good </string>
+
+    <string name="q1">সি ভাষার জনক ডেনিস রিচি</string>
+    <string name="q2">জাভা ভাষার জনক জেমস গোসলিং</string>
+    <string name="q3"> জাভাতে উত্তরাধিকার সম্পর্কের কোন ধারণা নেই</string>
+    <string name="q4">সি একটি অবজেক্ট ওরিয়েন্টেড ভাষা</string>
+    <string name="q5">হোয়াটসঅ্যাপটি প্রতিষ্ঠিত হয়েছিল ২০১০ সালে</string>
+    <string name="q6">কামাল কাদির বিকাশের প্রতিষ্ঠাতা</string>
+    <string name="q7">ব্র্যাকের প্রতিষ্ঠাতা হলেন মুহাম্মদ ইউনূস</string>
+    <string name="q8">পদ্মা বহুমুখী সেতু দৈর্ঘ্য ৬.৫১ কিলোমিটার</string>
+    <string name="q9">বাংলাদেশ ফ্রিল্যান্সিং এ ৪র্থ অবস্থান</string>
+    <string name="q10">বাংলাদেশ আইসিটি মন্ত্রী মোস্তফা জব্বার</string>
+
+    <string name="q11">ড্রপবক্সের প্রতিষ্ঠাতা ড্রিউ হিউস্টন এবং আরশ ফেরদৌসি</string>
+    <string name="q12">মাইক্রোসফ্ট এর প্রতিষ্ঠাতা হলেন জ্যাক মা</string>
+    <string name="q13">আলিবাবার প্রতিষ্ঠাতা হলেন জেফ বেজোস</string>
+    <string name="q14">ওয়ারেন বাফেট বিশ্বের সফল বিনিয়োগকারী</string>
+    <string name="q15">স্পেসেক্সের প্রতিষ্ঠাতা হলেন বার্নার্ড আরনাউল্ট</string>
+    <string name="q16">টেসলার প্রতিষ্ঠাতা এলন মাস্ক</string>
+    <string name="q17">রিলায়েন্স ইন্ডাস্ট্রিজ লিমিটেডের প্রতিষ্ঠাতা মুকেশ আম্বানি</string>
+    <string name="q18">গুগলের সহ-প্রতিষ্ঠাতা হলেন ল্যারি এলিসন</string>
+    <string name="q19">জ্যাক মা এর বাড়ি মালয়েশিয়া</string>
+    <string name="q20">টেনসেন্ট হোল্ডিংসের চেয়ারম্যান ও সিইও পনি মা হুয়াটেং</string>
+
+</resources>
